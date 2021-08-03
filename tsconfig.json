@@ -1,0 +1,18 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "removeComments": true,
+        "sourceMap": true,
+        "moduleResolution": "node",
+        "jsx": "react",
+        "allowJs": false,
+        "strict": true,
+        "target": "ES6",
+        "downlevelIteration": true,
+        "lib": [
+          "es2019",
+          "dom"
+        ]
+    }
+}
+
