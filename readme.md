@@ -1,3 +1,8 @@
+Description
+---
+
+This app makes a single invoke call when it starts ("test"), and displays the result in the main app window. The backend will print "test" when receiving the command.
+
 Setup
 ---
 ```npm i```
